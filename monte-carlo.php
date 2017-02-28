@@ -5,7 +5,6 @@
  *  x^2 + y^2 <= 1
  *  MIT License
  */
-
  $n = 9000000;
 
  $count = 0;
@@ -21,8 +20,12 @@
      if($z <= 1) $count++;
  }
 
- $pi = $count / $n * 4;
+    $pi = $count / $n * 4;
 
- printf("Approxmation PI = %g", $pi);
+    printf("Approxmation PI = %g", $pi);
+
+    echo "<pre>";
+    echo htmlentities(file_get_contents(__FILE__));
+    echo "</pre>";
 
 ?>
