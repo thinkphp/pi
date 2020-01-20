@@ -6,4 +6,5 @@
 
 DEMO 
 
-* https://repl.it/@emilstates/PI (in C language)
+* https://repl.it/@emilstates/PI ( C language)
+* https://ideone.com/lBMREH ( C language ) 
