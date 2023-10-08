@@ -24,8 +24,10 @@
 
 ```
 
-Samples
+Examples
 
 * https://repl.it/@emilstates/PI ( C language)
 * https://ideone.com/lBMREH ( C language ) 
 * https://ideone.com/lzQO2g ( Kotlin language)
+* https://onlinegdb.com/91fi_UBtv (Python3)
+* https://onlinegdb.com/6LoH4iYJxM (c language )
